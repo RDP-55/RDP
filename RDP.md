@@ -57,4 +57,3 @@
         استدعاء WebRequest https://raw.githubusercontent.com/romain09/AWS-RDP/main/loop.ps1 -OutFile loop.ps1
 
         ./loop.ps1
-
